@@ -17,10 +17,6 @@
 - 掌握 React（为主） / Vue / Angular 等主流框架之一，理解框架背后的原理。
 - 熟悉模块化加载机制，掌握 TypeScript 语法，熟悉单元测试和组件开发经验者优先。
 
-加我微信
+**加我微信**
 
 <img src="https://user-images.githubusercontent.com/17973020/150246273-ce060779-9294-4e17-8e4d-66c532fe3cf6.jpg" width="400px" height="400px"/>
-
-# [校招内推](https://careers.pinduoduo.com/campus/grad/detail?t=vBfWVPj2b6)
-
-![image](https://user-images.githubusercontent.com/17973020/150918903-345cf90c-d11a-4bf6-9430-00c1cb85eb67.png)
